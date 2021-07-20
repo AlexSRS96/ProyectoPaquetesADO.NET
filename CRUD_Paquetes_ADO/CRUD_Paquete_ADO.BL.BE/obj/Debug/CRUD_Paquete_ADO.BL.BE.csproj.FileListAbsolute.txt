@@ -1,0 +1,6 @@
+C:\Users\Alexxxio\Desktop\Proyecto Final\CRUD_Paquetes_ADO\CRUD_Paquete_ADO.BL.BE\bin\Debug\CRUD_Paquete_ADO.BL.BE.dll
+C:\Users\Alexxxio\Desktop\Proyecto Final\CRUD_Paquetes_ADO\CRUD_Paquete_ADO.BL.BE\bin\Debug\CRUD_Paquete_ADO.BL.BE.pdb
+C:\Users\Alexxxio\Desktop\Proyecto Final\CRUD_Paquetes_ADO\CRUD_Paquete_ADO.BL.BE\obj\Debug\CRUD_Paquete_ADO.BL.BE.csprojAssemblyReference.cache
+C:\Users\Alexxxio\Desktop\Proyecto Final\CRUD_Paquetes_ADO\CRUD_Paquete_ADO.BL.BE\obj\Debug\CRUD_Paquete_ADO.BL.BE.csproj.CoreCompileInputs.cache
+C:\Users\Alexxxio\Desktop\Proyecto Final\CRUD_Paquetes_ADO\CRUD_Paquete_ADO.BL.BE\obj\Debug\CRUD_Paquete_ADO.BL.BE.dll
+C:\Users\Alexxxio\Desktop\Proyecto Final\CRUD_Paquetes_ADO\CRUD_Paquete_ADO.BL.BE\obj\Debug\CRUD_Paquete_ADO.BL.BE.pdb
